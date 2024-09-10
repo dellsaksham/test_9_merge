@@ -3,6 +3,6 @@
 
 using namespace std;
 int main() {
-    int x_branch1=11;
+    int x_Main=11;
     retuen 0;
 }
