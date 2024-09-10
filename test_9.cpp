@@ -8,5 +8,5 @@ int main() {
     {
         cout<<"Added this if condition in main branch";
     }
-    retuen 0;
+    return 0;
 }
